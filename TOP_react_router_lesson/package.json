@@ -1,6 +1,6 @@
 {
-  "name": "scrimba_exercise",
-  "private": true,
+  "name": "top_react_router_lesson",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
